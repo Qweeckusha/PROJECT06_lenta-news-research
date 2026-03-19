@@ -1,0 +1,4 @@
+httpx
+asyncio
+bs4
+lxml
